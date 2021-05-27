@@ -1,30 +1,27 @@
 #EXTM3U
-#EXTINF:-1,--- LISTA GRATIS www.achoAPPS.com y www.achoTV.com
-http://www.achoTV.com
-#EXTINF:-1,--- Visita www.achoAPPS.com y www.achoTV.com ---
 
-#EXTINF:-1, tvg-logo="bsrVp3u.png" group-title="Canales Chilenos", BIG Radio | HD www.achoAPPS.com
+#EXTINF:-1, tvg-logo="bsrVp3u.png" group-title="Canales Chilenos", BIG Radio | HD 
 http://iptv.niumedia.cl/live-streaming-hls/niumedia.m3u8
 
-#EXTINF:-1, tvg-logo="09y8PS0.png" group-title="Canales Chilenos", TVR | HD www.achoAPPS.com
+#EXTINF:-1, tvg-logo="09y8PS0.png" group-title="Canales Chilenos", TVR | HD 
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="mdkkCgQ.png" group-title="Canales Chilenos", UES TV | HD www.achoAPPS.com
+#EXTINF:-1, tvg-logo="mdkkCgQ.png" group-title="Canales Chilenos", UES TV | HD 
 http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision | HD www.achoAPPS.com
+#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision | HD 
 https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados | SD www.achoAPPS.com
+#EXTINF:-1, tvg-logo="lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados | SD 
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD www.achoAPPS.com
+#EXTINF:-1, tvg-logo="ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD 
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 
-#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN SeÃ±al de Pruebas | HD www.achoAPPS.com
+#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN SeÃ±al de Pruebas | HD 
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deum3u8che Welle Latino | SD www.achoAPPS.com
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deum3u8che Welle Latino | SD 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="CANAIS INTERNACIONAIS", ARG:CANAL PROVINCIAL SD
