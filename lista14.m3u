@@ -1,477 +1,474 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BlueMeiJuPinDao.cn" tvg-name="Blue &#32654;&#21095;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="",Blue &#32654;&#21095;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-#EXTINF:-1 tvg-id="CanalMacau.mo" tvg-name="Canal Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="",Canal Macau (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV 3" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/HqScjKW.jpg" group-title="",CCTV 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="CCTV 4" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="",CCTV 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV13.png" group-title="",CCTV-13 &#26032;&#38395;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="CCTV5PlusTiYuSaiShi.cn" tvg-name="CCTV-5+ &#20307;&#32946;&#36187;&#20107;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="",CCTV-5+ &#20307;&#32946;&#36187;&#20107;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OkLtNrC.jpg" group-title="",CCTV-8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",Celestial Movies (480p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/6rlt5Ph.png" group-title="",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentaryZhongGuo.cn" tvg-name="CGTN Documentary(&#20013;&#22269;)" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="News",CGTN Documentary(&#20013;&#22269;)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTNZhongGuo.cn" tvg-name="CGTN(&#20013;&#22269;)" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="News",CGTN(&#20013;&#22269;)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC&#39640;&#28165;&#30005;&#24433;" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" group-title="Movies",CHC&#39640;&#28165;&#30005;&#24433;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH1ZongHeTai.tw" tvg-name="GOOD TV CH1 &#32156;&#21512;&#21488;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="Religious",GOOD TV CH1 &#32156;&#21512;&#21488; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH10KaoXiangDuShuHuiDuanBan.tw" tvg-name="GOOD TV CH10 &#28900;&#31665;&#35712;&#26360;&#26371; &#30701;&#29256;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/10_file.jpg" group-title="Religious",GOOD TV CH10 &#28900;&#31665;&#35712;&#26360;&#26371; &#30701;&#29256; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech10.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH12WeiTaMingShi.tw" tvg-name="GOOD TV CH12 &#32173;&#20182;&#21629;&#26045;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" group-title="Religious",GOOD TV CH12 &#32173;&#20182;&#21629;&#26045; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH13JianKangXinZhuLiuDuanBan.tw" tvg-name="GOOD TV CH13 &#20581;&#24247;&#26032;&#29038;&#27969; &#30701;&#29256;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" group-title="Religious",GOOD TV CH13 &#20581;&#24247;&#26032;&#29038;&#27969; &#30701;&#29256; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech13.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH14ZhenQingBuLuoGe.tw" tvg-name="GOOD TV CH14 &#30495;&#24773;&#37096;&#33853;&#26684;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/14_file.jpg" group-title="Religious",GOOD TV CH14 &#30495;&#24773;&#37096;&#33853;&#26684; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH15ZhenQingZhiYe.tw" tvg-name="GOOD TV CH15 &#30495;&#24773;&#20043;&#22812;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/15_file.jpg" group-title="Religious",GOOD TV CH15 &#30495;&#24773;&#20043;&#22812; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH16XieGuangMing.tw" tvg-name="GOOD TV CH16 &#33865;&#20809;&#26126;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/16_file.jpg" group-title="Religious",GOOD TV CH16 &#33865;&#20809;&#26126; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH17DaWeiBaoSen.tw" tvg-name="GOOD TV CH17 &#22823;&#34907;&#39825;&#26862;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/17_file.jpg" group-title="Religious",GOOD TV CH17 &#22823;&#34907;&#39825;&#26862; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH18GuoJiJiangYuan.tw" tvg-name="GOOD TV CH18 &#22283;&#38555;&#35611;&#21729;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/18_file.jpg" group-title="Religious",GOOD TV CH18 &#22283;&#38555;&#35611;&#21729; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH19GongXiangGuanDian.tw" tvg-name="GOOD TV CH19 &#20849;&#20139;&#35264;&#40670;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/19_file.jpg" group-title="Religious",GOOD TV CH19 &#20849;&#20139;&#35264;&#40670; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech19.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH2ZhenLiTai.tw" tvg-name="GOOD TV CH2 &#30495;&#29702;&#21488;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="Religious",GOOD TV CH2 &#30495;&#29702;&#21488; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH20EnDianShiFen.tw" tvg-name="GOOD TV CH20 &#24681;&#20856;&#26178;&#20998;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/20_file.jpg" group-title="Religious",GOOD TV CH20 &#24681;&#20856;&#26178;&#20998; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH21HuaYuJiangYuan.tw" tvg-name="GOOD TV CH21 &#33775;&#35486;&#35611;&#21729;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/21_file.jpg" group-title="Religious",GOOD TV CH21 &#33775;&#35486;&#35611;&#21729; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH22ZhiChangXinShiYe.tw" tvg-name="GOOD TV CH22 &#32887;&#22580;&#26032;&#35222;&#37326;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/22_file.jpg" group-title="Religious",GOOD TV CH22 &#32887;&#22580;&#26032;&#35222;&#37326; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech22.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH23KongZhongZhuRiXueShengHuo.tw" tvg-name="GOOD TV CH23 &#31354;&#20013;&#20027;&#26085;&#23416; &#29983;&#27963;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/23_file.jpg" group-title="Religious",GOOD TV CH23 &#31354;&#20013;&#20027;&#26085;&#23416; &#29983;&#27963; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech23.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH24LiuSanJiangGu.tw" tvg-name="GOOD TV CH24 &#21129;&#19977;&#35611;&#21476;" tvg-country="TW" tvg-language="Chinese;Min Nan Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/24_file.jpg" group-title="Religious",GOOD TV CH24 &#21129;&#19977;&#35611;&#21476; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH27KongZhongShengJingXueYuan.tw" tvg-name="GOOD TV CH27 &#31354;&#20013;&#32854;&#32147;&#23416;&#38498;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/27_file.jpg" group-title="Religious",GOOD TV CH27 &#31354;&#20013;&#32854;&#32147;&#23416;&#38498; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH28XianDaiShiGe.tw" tvg-name="GOOD TV CH28 &#29694;&#20195;&#35433;&#27468;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/28_file.jpg" group-title="Religious",GOOD TV CH28 &#29694;&#20195;&#35433;&#27468; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH29JingDianYinLeHe.tw" tvg-name="GOOD TV CH29 &#32147;&#20856;&#38899;&#27138;&#27827;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/29_file.jpg" group-title="Religious",GOOD TV CH29 &#32147;&#20856;&#38899;&#27138;&#27827; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH3ZhenQingBuLuoGeDuanBan.tw" tvg-name="GOOD TV CH3 &#30495;&#24773;&#37096;&#33853;&#26684; &#30701;&#29256;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/3_file.jpg" group-title="Religious",GOOD TV CH3 &#30495;&#24773;&#37096;&#33853;&#26684; &#30701;&#29256; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH30TianTangJingBai.tw" tvg-name="GOOD TV CH30 &#22825;&#22530;&#25964;&#25308;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/30_file.jpg" group-title="Religious",GOOD TV CH30 &#22825;&#22530;&#25964;&#25308; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH31FuYinBuDaoYinLeHui.tw" tvg-name="GOOD TV CH31 &#31119;&#38899;&#20296;&#36947;&#38899;&#27138;&#26371;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/31_file.jpg" group-title="Religious",GOOD TV CH31 &#31119;&#38899;&#20296;&#36947;&#38899;&#27138;&#26371; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH32TeHuiXiLieDaoGaoYuZhuanHua.tw" tvg-name="GOOD TV CH32 &#29305;&#26371;&#31995;&#21015;&#65306;&#31153;&#21578;&#33287;&#36681;&#21270;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/32_file.jpg" group-title="Religious",GOOD TV CH32 &#29305;&#26371;&#31995;&#21015;&#65306;&#31153;&#21578;&#33287;&#36681;&#21270; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH33TeHuiXiLieYanJingPeiLing.tw" tvg-name="GOOD TV CH33 &#29305;&#26371;&#31995;&#21015;&#65306;&#30740;&#32147;&#22521;&#38728;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/33_file.jpg" group-title="Religious",GOOD TV CH33 &#29305;&#26371;&#31995;&#21015;&#65306;&#30740;&#32147;&#22521;&#38728; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH36TeHuiXiLieChaoZiRanDaNengYiZhiShiFang.tw" tvg-name="GOOD TV CH36 &#29305;&#26371;&#31995;&#21015;&#65306;&#36229;&#33258;&#28982;&#22823;&#33021;&#65294;&#37291;&#27835;&#37323;&#25918;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/36_file.jpg" group-title="Religious",GOOD TV CH36 &#29305;&#26371;&#31995;&#21015;&#65306;&#36229;&#33258;&#28982;&#22823;&#33021;&#65294;&#37291;&#27835;&#37323;&#25918; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech36.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH37TeHuiXiLieYiSeLieZhuanTi.tw" tvg-name="GOOD TV CH37 &#29305;&#26371;&#31995;&#21015;&#65306;&#20197;&#33394;&#21015;&#23560;&#38988;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/37_file.jpg" group-title="Religious",GOOD TV CH37 &#29305;&#26371;&#31995;&#21015;&#65306;&#20197;&#33394;&#21015;&#23560;&#38988; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech37.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH38TeHuiXiLieQingNianTeHui.tw" tvg-name="GOOD TV CH38 &#29305;&#26371;&#31995;&#21015;&#65306;&#38738;&#24180;&#29305;&#26371;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/38_file.jpg" group-title="Religious",GOOD TV CH38 &#29305;&#26371;&#31995;&#21015;&#65306;&#38738;&#24180;&#29305;&#26371; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH40JiaTing8DianDangZhuanZhuanFaXianAi.tw" tvg-name="GOOD TV CH40 &#23478;&#24237;8&#40670;&#27284;&#36681;&#36681;&#30332;&#29694;&#24859;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/40_file.jpg" group-title="Religious",GOOD TV CH40 &#23478;&#24237;8&#40670;&#27284;&#36681;&#36681;&#30332;&#29694;&#24859; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH41XingFuXueTang.tw" tvg-name="GOOD TV CH41 &#24184;&#31119;&#23416;&#22530;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" group-title="Religious",GOOD TV CH41 &#24184;&#31119;&#23416;&#22530; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech41.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH44KaoXiangDuShuHui.tw" tvg-name="GOOD TV CH44 &#28900;&#31665;&#35712;&#26360;&#26371;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" group-title="Religious",GOOD TV CH44 &#28900;&#31665;&#35712;&#26360;&#26371; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech44.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH45QiaTong.tw" tvg-name="GOOD TV CH45 &#21345;&#36890;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" group-title="Religious",GOOD TV CH45 &#21345;&#36890; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech45.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH47MuZhePinDao.tw" tvg-name="GOOD TV CH47 &#29287;&#32773;&#38971;&#36947;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/47_file.jpg" group-title="Religious",GOOD TV CH47 &#29287;&#32773;&#38971;&#36947; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech47.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH49DaoGaoPinDao.tw" tvg-name="GOOD TV CH49 &#31153;&#21578;&#38971;&#36947;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" group-title="Religious",GOOD TV CH49 &#31153;&#21578;&#38971;&#36947; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech49.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH5GongXiangGuanDianDuanBan.tw" tvg-name="GOOD TV CH5 &#20849;&#20139;&#35264;&#40670; &#30701;&#29256;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/5_file.jpg" group-title="Religious",GOOD TV CH5 &#20849;&#20139;&#35264;&#40670; &#30701;&#29256; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH50GuoJiJiangYuanZhongWenFaYin.tw" tvg-name="GOOD TV CH50 &#22283;&#38555;&#35611;&#21729; &#20013;&#25991;&#30332;&#38899;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/50_file.jpg" group-title="Religious",GOOD TV CH50 &#22283;&#38555;&#35611;&#21729; &#20013;&#25991;&#30332;&#38899; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech50.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH6QinJinShenShiGeYinLe.tw" tvg-name="GOOD TV CH6 &#35242;&#36817;&#31070; &#35433;&#27468;&#38899;&#27138;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/6_file.jpg" group-title="Religious",GOOD TV CH6 &#35242;&#36817;&#31070; &#35433;&#27468;&#38899;&#27138; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH7DaoGaoDaJunXinXi.tw" tvg-name="GOOD TV CH7 &#31153;&#21578;&#22823;&#36557; &#20449;&#24687;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/7_file.jpg" group-title="Religious",GOOD TV CH7 &#31153;&#21578;&#22823;&#36557; &#20449;&#24687; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech7.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH8XingFuXueTangDuanBan.tw" tvg-name="GOOD TV CH8 &#24184;&#31119;&#23416;&#22530; &#30701;&#29256;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/8_file.jpg" group-title="Religious",GOOD TV CH8 &#24184;&#31119;&#23416;&#22530; &#30701;&#29256; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech8.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH9AiPlusHaoYiShengDuanBan.tw" tvg-name="GOOD TV CH9 &#24859;+&#22909;&#37291;&#29983; &#30701;&#29256;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" group-title="Religious",GOOD TV CH9 &#24859;+&#22909;&#37291;&#29983; &#30701;&#29256; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-name="NHK Chinese Vision" tvg-country="JP" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="News",NHK Chinese Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="nhkHuaYu.cn" tvg-name="nhk&#21326;&#35821;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/NHK.png" group-title="",nhk&#21326;&#35821;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-#EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Religious",Peace TV Chinese
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="TDMInfoMacau.mo" tvg-name="TDM Info. Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="",TDM Info. Macau (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDMMacau.mo" tvg-name="TDM Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="",TDM Macau (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="JinRiELuoSi.cn" tvg-name="&#20170;&#26085;&#20420;&#32599;&#26031;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="",&#20170;&#26085;&#20420;&#32599;&#26031;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1 tvg-id="YouShiPinDao.cn" tvg-name="&#20248;&#35270;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#20248;&#35270;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-id="YuYaoXinWenZongHe.cn" tvg-name="&#20313;&#23002;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#20313;&#23002;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 tvg-id="LiuAnGongGongPinDao.cn" tvg-name="&#20845;&#23433;&#20844;&#20849;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="",&#20845;&#23433;&#20844;&#20849;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.china-latv.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-id="LiuAnXinWenZongHe.cn" tvg-name="&#20845;&#23433;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="",&#20845;&#23433;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.china-latv.com/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="&#20853;&#22242;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#20853;&#22242;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/bttv.m3u8
-#EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-name="&#20869;&#33945;&#21476;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",&#20869;&#33945;&#21476;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
-#EXTINF:-1 tvg-id="FengHuangDianYing.cn" tvg-name="&#20964;&#20976;&#30005;&#24433;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="",&#20964;&#20976;&#30005;&#24433;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="LiChuanGongGongPinDao.cn" tvg-name="&#21033;&#24029;&#20844;&#20849;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21033;&#24029;&#20844;&#20849;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
-#EXTINF:-1 tvg-id="BeiJing10ShaoEr.cn" tvg-name="&#21271;&#20140;10&#23569;&#20799;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21271;&#20140;10&#23569;&#20799;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv10.m3u8
-#EXTINF:-1 tvg-id="BeiJingWeiShi.cn" tvg-name="&#21271;&#20140;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="",&#21271;&#20140;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
-#EXTINF:-1 tvg-id="BTVYingShi.cn" tvg-name="BTV&#24433;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21271;&#20140;&#24433;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv4.m3u8
-#EXTINF:-1 tvg-id="BTVWenYi.cn" tvg-name="BTV&#25991;&#33402;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21271;&#20140;&#25991;&#33402;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv2.m3u8
-#EXTINF:-1 tvg-id="BTVWenYi.cn" tvg-name="BTV&#25991;&#33402;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21271;&#20140;&#25991;&#33402;HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-id="BTVShengHuo.cn" tvg-name="BTV&#29983;&#27963;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21271;&#20140;&#29983;&#27963;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv7.m3u8
-#EXTINF:-1 tvg-id="BTVKeJiao.cn" tvg-name="BTV&#31185;&#25945;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21271;&#20140;&#31185;&#25945;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="&#21271;&#20140;&#32426;&#23454;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21271;&#20140;&#32426;&#23454;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 tvg-id="BTVCaiJing.cn" tvg-name="BTV&#36130;&#32463;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21271;&#20140;&#36130;&#32463;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv5.m3u8
-#EXTINF:-1 tvg-id="BTVQingNian.cn" tvg-name="BTV&#38738;&#24180;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21271;&#20140;&#38738;&#24180;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 tvg-id="NanJingShaoEr.cn" tvg-name="&#21335;&#20140;&#23569;&#20799;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21335;&#20140;&#23569;&#20799;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="NanJingXinWenZongHe.cn" tvg-name="&#21335;&#20140;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21335;&#20140;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="NanJingShengHuo.cn" tvg-name="&#21335;&#20140;&#29983;&#27963;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21335;&#20140;&#29983;&#27963;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="NanYangXinWenPinDao.cn" tvg-name="&#21335;&#38451;&#26032;&#38395;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21335;&#38451;&#26032;&#38395;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
-#EXTINF:-1 tvg-id="NanYangKeJiaoPinDao.cn" tvg-name="&#21335;&#38451;&#31185;&#25945;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#21335;&#38451;&#31185;&#25945;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
-#EXTINF:-1 tvg-id="YuanZhuMinDianShi.cn" tvg-name="&#21407;&#20303;&#27665;&#38651;&#35222;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="",&#21407;&#20303;&#27665;&#38651;&#35222; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="YuanZuMin.tw" tvg-name="&#21407;&#20303;&#27665;&#38651;&#35222;" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" group-title="General",&#21407;&#20303;&#27665;&#38651;&#35222; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="ShaMenWeiShi.cn" tvg-name="&#21414;&#38376;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="",&#21414;&#38376;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1 tvg-id="TaiShiXinWen.cn" tvg-name="&#21488;&#35222;&#26032;&#32862;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="",&#21488;&#35222;&#26032;&#32862;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="TaiShiXingWen.tw" tvg-name="&#21488;&#35222;&#26032;&#32862;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="News",&#21488;&#35222;&#26032;&#32862;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="JiLinWeiShi.cn" tvg-name="&#21513;&#26519;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png" group-title="",&#21513;&#26519;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/jltv.m3u8
-#EXTINF:-1 tvg-id="HaHaXuanDong.cn" tvg-name="&#21704;&#21704;&#28843;&#21160;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="Kids",&#21704;&#21704;&#28843;&#21160;Toon Max TV (480p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1 tvg-id="WeiXinDianShi.cn" tvg-name="&#21807;&#24515;&#38651;&#35222;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="",&#21807;&#24515;&#38651;&#35222;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="WeiXingDianShi.tw" tvg-name="&#21807;&#24515;&#38651;&#35222;" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="Religious",&#21807;&#24515;&#38651;&#35222;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="SiChuanWeiShi.cn" tvg-name="&#22235;&#24029;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png" group-title="",&#22235;&#24029;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/sctv.m3u8
-#EXTINF:-1 tvg-id="GuoJiXinWen.cn" tvg-name="&#22269;&#38469;&#26032;&#38395;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/TELESUR.png" group-title="",&#22269;&#38469;&#26032;&#38395; (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="YiDianShiXinWenTai.tw" tvg-name="&#22777;&#38651;&#35222;&#26032;&#32862;&#21488;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://store-images.s-microsoft.com/image/apps.14454.9007199266706361.be7aa2de-7429-4e34-b9a4-eca9a55157c1.3eb6a511-ff23-46aa-bf3a-b8b7e7e5c808?mode=scale&q=90&h=270&w=270&background=%23FFFFFF" group-title="News",&#22777;&#38651;&#35222;&#26032;&#32862;&#21488;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 tvg-id="DaYeYiTao.cn" tvg-name="&#22823;&#20918;&#19968;&#22871;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#22823;&#20918;&#19968;&#22871;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8
-#EXTINF:-1 tvg-id="DaYeErTao.cn" tvg-name="&#22823;&#20918;&#20108;&#22871;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#22823;&#20918;&#20108;&#22871;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
-#EXTINF:-1 tvg-id="DaWuZongHe.cn" tvg-name="&#22823;&#24735;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#22823;&#24735;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
-#EXTINF:-1 tvg-id="DaAi1.cn" tvg-name="&#22823;&#24859;1" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.daai.tv/images/logo.png" group-title="",&#22823;&#24859;1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi1.tw" tvg-name="&#22823;&#24859;2" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://www.daai.tv/images/logo.png" group-title="General",&#22823;&#24859;1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw" tvg-name="&#22823;&#24859;2" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="General",&#22823;&#24859;2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="DaAiHaiWai.cn" tvg-name="&#22823;&#29233;&#28023;&#22806;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#22823;&#29233;&#28023;&#22806;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-id="TianYingJingDianPin.cn" tvg-name="&#22825;&#26144;&#32463;&#20856;&#39057;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://console.celestialtiger.com/images/upload/ec697ac53e8b3f6607cf7aeaf42a47c2da5a7607.png" group-title="",&#22825;&#26144;&#32463;&#20856;&#39057;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#EXTINF:-1 tvg-id="TianYingPinDao.cn" tvg-name="&#22825;&#26144;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="",&#22825;&#26144;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:-1 tvg-id="TianJinWeiShiGaoQing.cn" tvg-name="&#22825;&#27941;&#21355;&#35270;&#39640;&#28165;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/TJWS.png" group-title="",&#22825;&#27941;&#21355;&#35270;&#39640;&#28165;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 tvg-id="FengHuaXinWenZongHe.cn" tvg-name="&#22857;&#21270;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#22857;&#21270;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.fhtv.net.cn/zhpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="FengHuaShengHuoYuLe.cn" tvg-name="&#22857;&#21270;&#29983;&#27963;&#23089;&#20048;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#22857;&#21270;&#29983;&#27963;&#23089;&#20048;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.fhtv.net.cn/ylpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="AoShiWeiXing.cn" tvg-name="&#22885;&#35270;&#21355;&#26143;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/AOSHI.png" group-title="",&#22885;&#35270;&#21355;&#26143; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="AnHuiWeiShi.cn" tvg-name="&#23433;&#24509;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="",&#23433;&#24509;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/ahtv.m3u8
-#EXTINF:-1 tvg-id="YiXingXinWenPinDao.cn" tvg-name="&#23452;&#20852;&#26032;&#38395;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#23452;&#20852;&#26032;&#38395;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
-#EXTINF:-1 tvg-id="YiXingDianShiZiShaPinDao.cn" tvg-name="&#23452;&#20852;&#30005;&#35270;&#32043;&#30722;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#23452;&#20852;&#30005;&#35270;&#32043;&#30722;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live-dft-hls-yf.jstv.com/live/yixing_zs/online.m3u8
-#EXTINF:-1 tvg-id="XuanHanChengShiGongZhong.cn" tvg-name="&#23459;&#27721;&#22478;&#24066;&#20844;&#20247;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#23459;&#27721;&#22478;&#24066;&#20844;&#20247;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://60.255.77.232/1000/1000.m3u8
-#EXTINF:-1 tvg-id="XuanHanXinWenZongHe.cn" tvg-name="&#23459;&#27721;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#23459;&#27721;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://60.255.77.232/1001/1001.m3u8
-#EXTINF:-1 tvg-id="SuZhouGongGongPinDao.cn" tvg-name="&#23487;&#24030;&#20844;&#20849;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#23487;&#24030;&#20844;&#20849;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-#EXTINF:-1 tvg-id="SuZhouKeJiao.cn" tvg-name="&#23487;&#24030;&#31185;&#25945;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0711/f91966206d646e5cc94ca9e597b855ec.jpg" group-title="",&#23487;&#24030;&#31185;&#25945;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-#EXTINF:-1 tvg-id="ShanDongWeiShi.cn" tvg-name="&#23665;&#19996;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png" group-title="",&#23665;&#19996;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/sdtv.m3u8
-#EXTINF:-1 tvg-id="ShengZhouZongHe.cn" tvg-name="&#23882;&#24030;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#23882;&#24030;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-id="BaZhongGongGongPinDao.cn" tvg-name="&#24052;&#20013;&#20844;&#20849;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#24052;&#20013;&#20844;&#20849;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
-#EXTINF:-1 tvg-id="BaZhongZongHePinDao.cn" tvg-name="&#24052;&#20013;&#32508;&#21512;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#24052;&#20013;&#32508;&#21512;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
-#EXTINF:-1 tvg-id="GuangDongWeiShiGaoQing.cn" tvg-name="&#24191;&#19996;&#21355;&#35270;&#39640;&#28165;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="",&#24191;&#19996;&#21355;&#35270;&#39640;&#28165;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 tvg-id="GuangShuiXinWenZongHe.cn" tvg-name="&#24191;&#27700;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://ku.90sjimg.com/element_pic/17/12/31/2ec189f5167bd017e47acd441800487b.jpg" group-title="",&#24191;&#27700;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-#EXTINF:-1 tvg-id="ZhangJiaJie1.cn" tvg-name="&#24352;&#23478;&#30028;1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#24352;&#23478;&#30028;1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
-#EXTINF:-1 tvg-id="PengShuiWenHuaLuYou.cn" tvg-name="&#24429;&#27700;&#25991;&#21270;&#26053;&#28216;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#24429;&#27700;&#25991;&#21270;&#26053;&#28216;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://pengshuilive.cbg.cn/pengshui02.m3u8
-#EXTINF:-1 tvg-id="PengShuiXinWenZongHe.cn" tvg-name="&#24429;&#27700;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#24429;&#27700;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://pengshuilive.cbg.cn/pengshui01.m3u8
-#EXTINF:-1 tvg-id="DW.cn" tvg-name="DW" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="",&#24503;&#22269;&#20043;&#22768;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="XinYueZhiShengGongYiGuangBo.cn" tvg-name="&#24515;&#32422;&#20043;&#22768;&#20844;&#30410;&#24191;&#25773;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#24515;&#32422;&#20043;&#22768;&#20844;&#30410;&#24191;&#25773;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://4521.hlsplay.aodianyun.com/xyzs/stream.m3u8
-#EXTINF:-1 tvg-id="HuiZhouXinWenZongHe.cn" tvg-name="&#24800;&#24030;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hztv1.jpg" group-title="",&#24800;&#24030;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dslive.grtn.cn/hzzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="FangShanDianShiTai.cn" tvg-name="&#25151;&#23665;&#30005;&#35270;&#21488;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://img.funhillrm.com/201912173520409e01fadc9c2811d72ff26f62ef.png" group-title="",&#25151;&#23665;&#30005;&#35270;&#21488;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.funhillrm.com/2/playlist.m3u8
-#EXTINF:-1 tvg-id="XinTangRenMeiXiPinDao.cn" tvg-name="&#26032;&#21776;&#20154;-&#32654;&#35199;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#26032;&#21776;&#20154;-&#32654;&#35199;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.ntdimg.com/uwlive520/playlist.m3u8?
-#EXTINF:-1 tvg-id="XinTangRenYaTaiTai.cn" tvg-name="&#26032;&#21776;&#20154;&#20122;&#22826;&#33274;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="",&#26032;&#21776;&#20154;&#20122;&#22826;&#33274;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-id="XinTangRenJiaDongTai.cn" tvg-name="&#26032;&#21776;&#20154;&#21152;&#19996;&#33274;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="",&#26032;&#21776;&#20154;&#21152;&#19996;&#33274;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.ntdimg.com/mllive860/playlist.m3u8
-#EXTINF:-1 tvg-id="XinTangRenJiaXiTai.cn" tvg-name="&#26032;&#21776;&#20154;&#21152;&#35199;&#33274;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="",&#26032;&#21776;&#20154;&#21152;&#35199;&#33274;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.ntdimg.com/cwlive220/playlist.m3u8
-#EXTINF:-1 tvg-id="XinTangRenJiuJinShanTai.cn" tvg-name="&#26032;&#21776;&#20154;&#26087;&#37329;&#23665;&#33274;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="",&#26032;&#21776;&#20154;&#26087;&#37329;&#23665;&#33274;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.ntdimg.com/sflive990/playlist.m3u8
-#EXTINF:-1 tvg-id="XinTangRenMeiDongTai.cn" tvg-name="&#26032;&#21776;&#20154;&#32654;&#19996;&#33274;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="",&#26032;&#21776;&#20154;&#32654;&#19996;&#33274;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.ntdimg.com/live400/playlist.m3u8
-#EXTINF:-1 tvg-id="XinTangRenMeiXiTai.cn" tvg-name="&#26032;&#21776;&#20154;&#32654;&#35199;&#33274;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="",&#26032;&#21776;&#20154;&#32654;&#35199;&#33274;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://live.ntdimg.com/uwlive990/playlist.m3u8
-#EXTINF:-1 tvg-id="RiBenQuanTianXinWen.cn" tvg-name="&#26085;&#26412;&#20840;&#22825;&#26032;&#32862;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/riben24.png" group-title="",&#26085;&#26412;&#20840;&#22825;&#26032;&#32862; (480p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="XingKongWeiShi.cn" tvg-name="&#26143;&#31354;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" group-title="",&#26143;&#31354;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-#EXTINF:-1 tvg-id="XingKongWeiShi.hk" tvg-name="&#26143;&#31354;&#34907;&#35222;" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="General",&#26143;&#31354;&#34907;&#35222;
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-id="ShuoZhou1.cn" tvg-name="&#26388;&#24030;1" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/shuozhou.jpg" group-title="",&#26388;&#24030;1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.sxsztv.com/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="ShuoZhou2.cn" tvg-name="&#26388;&#24030;2" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/shuozhou.jpg" group-title="",&#26388;&#24030;2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.sxsztv.com/live2/playlist.m3u8
-#EXTINF:-1 tvg-id="DongLingXingWen.tw" tvg-name="&#26481;&#26862;&#26032;&#32862;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="News",&#26481;&#26862;&#26032;&#32862;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="DongLingCaiJingXingWen.tw" tvg-name="&#26481;&#26862;&#36001;&#32147;&#26032;&#32862;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="News",&#26481;&#26862;&#36001;&#32147;&#26032;&#32862;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="ZaoZhuangGongGongPinDao.cn" tvg-name="&#26531;&#24196;&#20844;&#20849;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#26531;&#24196;&#20844;&#20849;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.zzgd.tv/3/sd/live.m3u8
-#EXTINF:-1 tvg-id="ZaoZhuangJiaoYuPinDao.cn" tvg-name="&#26531;&#24196;&#25945;&#32946;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#26531;&#24196;&#25945;&#32946;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.zzgd.tv/2/sd/live.m3u8
-#EXTINF:-1 tvg-id="ZaoZhuangXinWenZongHe.cn" tvg-name="&#26531;&#24196;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#26531;&#24196;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.zzgd.tv/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="MeiZhouZongHe.cn" tvg-name="&#26757;&#24030;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#26757;&#24030;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dslive.grtn.cn/mzzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="WuJinXinWenPinDao.cn" tvg-name="&#27494;&#36827;&#26032;&#38395;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#27494;&#36827;&#26032;&#38395;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 tvg-id="WuJinShengHuoPinDao.cn" tvg-name="&#27494;&#36827;&#29983;&#27963;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#27494;&#36827;&#29983;&#27963;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.wjyanghu.com/live/CH2.m3u8
-#EXTINF:-1 tvg-id="MinShi.tw" tvg-name="&#27665;&#35222;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="General",&#27665;&#35222; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="&#27665;&#35222;&#21488;&#28771;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",&#27665;&#35222;&#21488;&#28771; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="MinShiXinWenTai.tw" tvg-name="&#27665;&#35222;&#26032;&#32862;&#21488;" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",&#27665;&#35222;&#26032;&#32862;&#21488;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="&#27665;&#35222;&#31532;&#19968;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="General",&#27665;&#35222;&#31532;&#19968; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="ShanTouZongHe.cn" tvg-name="&#27733;&#22836;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#27733;&#22836;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dslive.grtn.cn/stzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="ShanWeiGongGong.cn" tvg-name="&#27733;&#23614;&#20844;&#20849;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#27733;&#23614;&#20844;&#20849;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dslive.grtn.cn/swzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="JiangSuXinWenGuangBo.cn" tvg-name="&#27743;&#33487;&#26032;&#38395;&#24191;&#25773;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#27743;&#33487;&#26032;&#38395;&#24191;&#25773;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
-#EXTINF:-1 tvg-id="JiangSuJingDianLiuXingYinLeGuangBo.cn" tvg-name="&#27743;&#33487;&#32463;&#20856;&#27969;&#34892;&#38899;&#20048;&#24191;&#25773;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#27743;&#33487;&#32463;&#20856;&#27969;&#34892;&#38899;&#20048;&#24191;&#25773;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
-#EXTINF:-1 tvg-id="JiangSuJinLingZhiSheng.cn" tvg-name="&#27743;&#33487;&#37329;&#38517;&#20043;&#22768;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#27743;&#33487;&#37329;&#38517;&#20043;&#22768;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
-#EXTINF:-1 tvg-id="HeBeiWeiShi.cn" tvg-name="&#27827;&#21271;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcfa5599f.png" group-title="",&#27827;&#21271;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/hebtv.m3u8
-#EXTINF:-1 tvg-id="HeNanWeiShi.cn" tvg-name="&#27827;&#21335;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png" group-title="",&#27827;&#21335;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 tvg-id="HeYuanZongHe.cn" tvg-name="&#27827;&#28304;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#27827;&#28304;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dslive.grtn.cn/hyzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-name="&#27993;&#27743;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",&#27993;&#27743;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangYingShi.cn" tvg-name="&#27993;&#27743;&#24433;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/ZJYS.png" group-title="",&#27993;&#27743;&#24433;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
-#EXTINF:-1 tvg-id="HaiYanXinWenPinDao.cn" tvg-name="&#28023;&#30416;&#26032;&#38395;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#28023;&#30416;&#26032;&#38395;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="HaiXiZhouZongHePinDao.cn" tvg-name="&#28023;&#35199;&#24030;&#32508;&#21512;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#28023;&#35199;&#24030;&#32508;&#21512;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.haixitv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="HuBeiWeiShi.cn" tvg-name="&#28246;&#21271;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png" group-title="",&#28246;&#21271;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/hbtv.m3u8
-#EXTINF:-1 tvg-id="HuNanWeiShi.cn" tvg-name="&#28246;&#21335;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="",&#28246;&#21335;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/hunantv.m3u8
-#EXTINF:-1 tvg-id="BinZhouXinWenZongHe.cn" tvg-name="&#28392;&#24030;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#28392;&#24030;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.bzcm.net/2/sd/live.m3u8
-#EXTINF:-1 tvg-id="BinZhouCeShiPinDao.cn" tvg-name="&#28392;&#24030;&#27979;&#35797;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#28392;&#24030;&#27979;&#35797;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.bzcm.net/4/sd/live.m3u8
-#EXTINF:-1 tvg-id="BinHaiXinWen.cn" tvg-name="&#28392;&#28023;&#26032;&#38395;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif" group-title="",&#28392;&#28023;&#26032;&#38395; (576p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://60.30.52.41/live/bhtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="BinHaiDuShi.cn" tvg-name="&#28392;&#28023;&#37117;&#24066;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif" group-title="",&#28392;&#28023;&#37117;&#24066; (576p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://60.30.52.41/live/bhtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="ChaoZhouZongHe.cn" tvg-name="&#28526;&#24030;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#28526;&#24030;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dslive.grtn.cn/czzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="AoYaWeiShi.cn" tvg-name="&#28595;&#20122;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="",&#28595;&#20122;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.mastvnet.com/4rlff1m/live.m3u8
-#EXTINF:-1 tvg-id="AoShiAoMen.mo" tvg-name="&#28595;&#35222;&#28595;&#38272;" tvg-country="MO" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="General",&#28595;&#35222;&#28595;&#38272; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="AoMenMACAU.mo" tvg-name="&#28595;&#38272;-MACAU" tvg-country="MO" tvg-language="Chinese;Yue Chinese;Portuguese" tvg-logo="https://i.imgur.com/59lAsao.png" group-title="General",&#28595;&#38272;-MACAU (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="AoMenZongYi.mo" tvg-name="&#28595;&#38272;&#32156;&#34269;" tvg-country="MO" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/640px-TDM_Entertainment.png" group-title="",&#28595;&#38272;&#32156;&#34269; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="AoMenZiXun.mo" tvg-name="&#28595;&#38272;&#36039;&#35338;" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="News",&#28595;&#38272;&#36039;&#35338; (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="DianZhangCaiJing.cn" tvg-name="&#28857;&#25484;&#36130;&#32463;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="",&#28857;&#25484;&#36130;&#32463;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-id="GanSuPinZhiShengHuo.cn" tvg-name="&#29976;&#32899;&#21697;&#36136;&#29983;&#27963;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#29976;&#32899;&#21697;&#36136;&#29983;&#27963;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.gstv.com.cn/pzsh/sd/live.m3u8
-#EXTINF:-1 tvg-id="GanSuShaoErPinDao.cn" tvg-name="&#29976;&#32899;&#23569;&#20799;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#29976;&#32899;&#23569;&#20799;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.gstv.com.cn/sepd/sd/live.m3u8
-#EXTINF:-1 tvg-id="GanSuWenHuaYingShi.cn" tvg-name="&#29976;&#32899;&#25991;&#21270;&#24433;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#29976;&#32899;&#25991;&#21270;&#24433;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.gstv.com.cn/whys/sd/live.m3u8
-#EXTINF:-1 tvg-id="GanSuJingJiPinDao.cn" tvg-name="&#29976;&#32899;&#32463;&#27982;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#29976;&#32899;&#32463;&#27982;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.gstv.com.cn/jjpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="GanSuDuShiPinDao.cn" tvg-name="&#29976;&#32899;&#37117;&#24066;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#29976;&#32899;&#37117;&#24066;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.gstv.com.cn/dspd/sd/live.m3u8
-#EXTINF:-1 tvg-id="FuZhouShaoEr.cn" tvg-name="&#31119;&#24030;&#23569;&#20799;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",&#31119;&#24030;&#23569;&#20799;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 tvg-id="FuZhouYingShi.cn" tvg-name="&#31119;&#24030;&#24433;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#31119;&#24030;&#24433;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 tvg-id="FuZhouShengHuo.cn" tvg-name="&#31119;&#24030;&#29983;&#27963;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#31119;&#24030;&#29983;&#27963;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-#EXTINF:-1 tvg-id="FuZhouZongHe.cn" tvg-name="&#31119;&#24030;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#31119;&#24030;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoJiaoTongWeiYuanHui.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#20132;&#36890;&#22996;&#21729;&#26371;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#20132;&#36890;&#22996;&#21729;&#26371; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoNeiZhengWeiYuanHui.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#20839;&#25919;&#22996;&#21729;&#26371;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#20839;&#25919;&#22996;&#21729;&#26371; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoSiFaJiFaZhiWeiYuanHui.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#21496;&#27861;&#21450;&#27861;&#21046;&#22996;&#21729;&#26371;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#21496;&#27861;&#21450;&#27861;&#21046;&#22996;&#21729;&#26371; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoWaiJiaoJiGuoFangWeiYuanHui.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#22806;&#20132;&#21450;&#22283;&#38450;&#22996;&#21729;&#26371;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#22806;&#20132;&#21450;&#22283;&#38450;&#22996;&#21729;&#26371; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoJiaoYuJiWenHuaWeiYuanHui.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#25945;&#32946;&#21450;&#25991;&#21270;&#22996;&#21729;&#26371;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#25945;&#32946;&#21450;&#25991;&#21270;&#22996;&#21729;&#26371; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoZhaoYeXieShang.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#26397;&#37326;&#21332;&#21830;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#26397;&#37326;&#21332;&#21830; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoSheHuiFuLiJiWeiShengHuanJingWeiYuanHui.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#31038;&#26371;&#31119;&#21033;&#21450;&#34907;&#29983;&#29872;&#22659;&#22996;&#21729;&#26371;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#31038;&#26371;&#31119;&#21033;&#21450;&#34907;&#29983;&#29872;&#22659;&#22996;&#21729;&#26371; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoJingJiWeiYuanHui.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#32147;&#28639;&#22996;&#21729;&#26371;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#32147;&#28639;&#22996;&#21729;&#26371; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoCaiZhengWeiYuanHui.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#36001;&#25919;&#22996;&#21729;&#26371;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#36001;&#25919;&#22996;&#21729;&#26371; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="LiFaYuanIVODZhiBoYuanHui.tw" tvg-name="&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#38498;&#26371;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",&#31435;&#27861;&#38498;IVOD&#30452;&#25773;&#38498;&#26371; (450p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="MeiGuoZhongWenDianShi.cn" tvg-name="&#32654;&#22269;&#20013;&#25991;&#30005;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/4034970a304e251f46b43584a786c9177f3e530f.jpg" group-title="",&#32654;&#22269;&#20013;&#25991;&#30005;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 tvg-id="YaoCaiCaiJingTai.hk" tvg-name="&#32768;&#25165;&#36001;&#32147;&#21488;" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" group-title="Shop",&#32768;&#25165;&#36001;&#32147;&#21488;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id="YaoCaiCaiJing.cn" tvg-name="&#32768;&#25165;&#36130;&#32463;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#32768;&#25165;&#36130;&#32463;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="ZhouShanGongGongShengHuo.cn" tvg-name="&#33311;&#23665;&#20844;&#20849;&#29983;&#27963;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#33311;&#23665;&#20844;&#20849;&#29983;&#27963;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 tvg-id="ZhouShanXinWenZongHe.cn" tvg-name="&#33311;&#23665;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#33311;&#23665;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="ZhouShanXinWenZongHe.cn" tvg-name="&#33311;&#23665;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://static2.tvzhe.com/channel/logo/ZJZS-ZH.jpg" group-title="",&#33311;&#23665;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="ZhouShanQunDaoLuYou.cn" tvg-name="&#33311;&#23665;&#32676;&#23707;&#26053;&#28216;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#33311;&#23665;&#32676;&#23707;&#26053;&#28216;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.wifizs.cn/qdly/sd/live.m3u8
-#EXTINF:-1 tvg-id="WuHuShengHuoPinDao.cn" tvg-name="&#33436;&#28246;&#29983;&#27963;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#33436;&#28246;&#29983;&#27963;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live1.wuhubtv.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-id="HuaShiXinWen.cn" tvg-name="&#33775;&#35222;&#26032;&#32862;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="",&#33775;&#35222;&#26032;&#32862;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="HuaShiXingWen.tw" tvg-name="&#33775;&#35222;&#26032;&#32862;&#36039;&#35338;" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/27/Cts_news_info.png/200px-Cts_news_info.png" group-title="News",&#33775;&#35222;&#26032;&#32862;&#36039;&#35338;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="XiaoShanXinWenZongHe.cn" tvg-name="&#33831;&#23665;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#33831;&#23665;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-id="WeiShiQiaShi.cn" tvg-name="&#34907;&#35222;&#21345;&#24335;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.nowtv.now.com/media/logo/140-wbg-e.png" group-title="",&#34907;&#35222;&#21345;&#24335;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
-#EXTINF:-1 tvg-id="WeiShiDianYing.cn" tvg-name="&#34907;&#35222;&#38651;&#24433;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="",&#34907;&#35222;&#38651;&#24433;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-#EXTINF:-1 tvg-id="XiAnSiLu.cn" tvg-name="&#35199;&#23433;&#19997;&#36335;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv5.jpg" group-title="",&#35199;&#23433;&#19997;&#36335;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv5/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnLeGouGouWu.cn" tvg-name="&#35199;&#23433;&#20048;&#36141;&#36141;&#29289;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0806/af2ee98fb3e3b7fcafb3bbbdae9d7957.jpg" group-title="",&#35199;&#23433;&#20048;&#36141;&#36141;&#29289;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv6/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnJianKang.cn" tvg-name="&#35199;&#23433;&#20581;&#24247;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#35199;&#23433;&#20581;&#24247;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnShangWuZiXun.cn" tvg-name="&#35199;&#23433;&#21830;&#21153;&#36164;&#35759;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv3.jpg" group-title="",&#35199;&#23433;&#21830;&#21153;&#36164;&#35759;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv3/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnYingShi.cn" tvg-name="&#35199;&#23433;&#24433;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv4.jpg" group-title="",&#35199;&#23433;&#24433;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv4/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnYingShi.cn" tvg-name="&#35199;&#23433;&#24433;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#35199;&#23433;&#24433;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnXinWen.cn" tvg-name="&#35199;&#23433;&#26032;&#38395;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#35199;&#23433;&#26032;&#38395;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnXinWenZongHe.cn" tvg-name="&#35199;&#23433;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="",&#35199;&#23433;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnBaiGe.cn" tvg-name="&#35199;&#23433;&#30333;&#40509;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#35199;&#23433;&#30333;&#40509;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnZiXun.cn" tvg-name="&#35199;&#23433;&#36164;&#35759;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#35199;&#23433;&#36164;&#35759;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-#EXTINF:-1 tvg-id="XiAnDuShi.cn" tvg-name="&#35199;&#23433;&#37117;&#24066;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv2.jpg" group-title="",&#35199;&#23433;&#37117;&#24066;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnYinLeZongYi.cn" tvg-name="&#35199;&#23433;&#38899;&#20048;&#32508;&#33402;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#35199;&#23433;&#38899;&#20048;&#32508;&#33402;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream2.xiancity.cn/xatv6/sd/live.m3u8
-#EXTINF:-1 tvg-id="LiaoNingWeiShiGaoQing.cn" tvg-name="&#36797;&#23425;&#21355;&#35270;&#39640;&#28165;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/liaoning.jpg" group-title="",&#36797;&#23425;&#21355;&#35270;&#39640;&#28165;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 tvg-id="TongZhouDianShiTai.cn" tvg-name="&#36890;&#24030;&#30005;&#35270;&#21488;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.dayuntongzhou.com/web/style/images/logo.png" group-title="",&#36890;&#24030;&#30005;&#35270;&#21488;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://pull.dayuntongzhou.com/live/tztv.m3u8
-#EXTINF:-1 tvg-id="HanDanGongGong.cn" tvg-name="&#37039;&#37112;&#20844;&#20849;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#37039;&#37112;&#20844;&#20849;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.hd.hdbs.cn/video/s10001-hdggpd/index.m3u8
-#EXTINF:-1 tvg-id="HanDanXinWenZongHe.cn" tvg-name="&#37039;&#37112;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#37039;&#37112;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.hd.hdbs.cn/video/s10001-hdxwpd/index.m3u8
-#EXTINF:-1 tvg-id="HanDanKeJiJiaoYu.cn" tvg-name="&#37039;&#37112;&#31185;&#25216;&#25945;&#32946;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#37039;&#37112;&#31185;&#25216;&#25945;&#32946;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.hd.hdbs.cn/video/s10001-hdkjpd/index.m3u8
-#EXTINF:-1 tvg-id="ChongQingWeiShiGaoQing.cn" tvg-name="&#37325;&#24198;&#21355;&#35270;&#39640;&#28165;" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/chongqing.jpg" group-title="",&#37325;&#24198;&#21355;&#35270;&#39640;&#28165;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="YinChuanGongGong.cn" tvg-name="&#38134;&#24029;&#20844;&#20849;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#38134;&#24029;&#20844;&#20849;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
-#EXTINF:-1 tvg-id="YangJiangZongHe.cn" tvg-name="&#38451;&#27743;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#38451;&#27743;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://dslive.grtn.cn/yjzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.cn" tvg-name="ArirangTV" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="",&#38463;&#37324;&#37070;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="QingHaiWeiShi.cn" tvg-name="&#38738;&#28023;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png" group-title="",&#38738;&#28023;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 tvg-id="XiangGangKaiDianShi.hk" tvg-name="&#39321;&#28207;&#38283;&#38651;&#35222;" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="General",&#39321;&#28207;&#38283;&#38651;&#35222;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="&#40179;&#20976;&#34907;&#35222;&#38651;&#24433;&#21488;" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="",&#40179;&#20976;&#34907;&#35222;&#38651;&#24433;&#21488;
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-#EXTINF:-1 tvg-id="HeBiXinWenZongHe.cn" tvg-name="&#40548;&#22721;&#26032;&#38395;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebi.jpg" group-title="",&#40548;&#22721;&#26032;&#38395;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-#EXTINF:-1 tvg-id="HeFengZongHePinDao.cn" tvg-name="&#40548;&#23792;&#32508;&#21512;&#39057;&#36947;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#40548;&#23792;&#32508;&#21512;&#39057;&#36947;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
-#EXTINF:-1 tvg-id="HeiLongJiangWeiShi.cn" tvg-name="&#40657;&#40857;&#27743;&#21355;&#35270;" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png" group-title="",&#40657;&#40857;&#27743;&#21355;&#35270;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 tvg-id="QianXiNanGongGong.cn" tvg-name="&#40660;&#35199;&#21335;&#20844;&#20849;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#40660;&#35199;&#21335;&#20844;&#20849;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.qxndt.com/channel3/sd/live.m3u8
-#EXTINF:-1 tvg-id="QianXiNanZongHe.cn" tvg-name="&#40660;&#35199;&#21335;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#40660;&#35199;&#21335;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://live.qxndt.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-id="LongYanGongGong.cn" tvg-name="&#40857;&#23721;&#20844;&#20849;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#40857;&#23721;&#20844;&#20849;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.lytv.net.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="LongYanZongHe.cn" tvg-name="&#40857;&#23721;&#32508;&#21512;" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",&#40857;&#23721;&#32508;&#21512;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",IPT
 http://stream.lytv.net.cn/2/sd/live.m3u8
